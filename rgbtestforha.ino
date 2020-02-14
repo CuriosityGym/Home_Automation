@@ -6,9 +6,9 @@
 #include <avr/power.h>
 #endif
 
-char auth[] = "cDr5sIouMzOayKPVfcBGJpmtyU3hmB03";
-char ssid[] = "The Promised LAN";
-char pass[] = "imagineyourquestion";
+char auth[] = "XXXXXXXXXXXXXXXXXXXXXXX";
+char ssid[] = "XXXXXXXXXXXX";
+char pass[] = "XXXXXXXXXXXXXXX";
 
 int red = 255;
 int green = 255;
